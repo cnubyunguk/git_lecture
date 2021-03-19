@@ -1,3 +1,2 @@
-hi this is jisoo choi. nice to meet you.
-
 # git_lecture
+201902765 최지수
