@@ -1,2 +1,2 @@
 # git_lecture
-JUHYEONG_LEE
+my name is JUHYEONG_LEE
